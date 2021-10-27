@@ -1,0 +1,9 @@
+google==3.0.0
+google-api-python-client==2.28.0
+boto3==1.18.65
+botocore==1.21.65
+pretty_bad_protocol==3.1.1
+python-telegram-bot==13.7
+facebook-business==12.0.1
+viberbot==1.0.12
+python-ldap==3.3.1
