@@ -7,3 +7,5 @@ python-telegram-bot==13.7
 facebook-business==12.0.1
 viberbot==1.0.12
 python-ldap==3.3.1
+urllib3==1.26.7
+requests==2.26.0
